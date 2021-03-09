@@ -2,8 +2,8 @@
 Para executar o projeto:
 </h2>
 
-Crie arquivo .env na raiz do projeto e digite:
-
+Acesse o link https://developers.google.com/drive/api/v3/quickstart/nodejs click em "Enable the Drive AP", selecione desktop app.
+Crie um arquivo .env na raiz do projeto e preencha com as informações:
 ```
 DRIVE CLIENT_ID=<seu client id>
 DRIVE_CLIENT_SECRET=<seu client secret>
